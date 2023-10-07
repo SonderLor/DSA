@@ -1,0 +1,4 @@
+﻿  Main.cpp
+C:\Users\mrale\source\repos\Practice4\Practice4\Main.cpp(46,8): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\mrale\source\repos\Practice4\Practice4\Main.cpp(71,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  Practice4.vcxproj -> C:\Users\mrale\source\repos\Practice4\x64\Debug\Practice4.exe
