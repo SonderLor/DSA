@@ -1,0 +1,7 @@
+﻿  Practice8.cpp
+C:\Users\mrale\source\repos\Practice8\Practice8\Practice8.cpp(10,11): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\mrale\source\repos\Practice8\Practice8\Practice8.cpp(43,11): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\mrale\source\repos\Practice8\Practice8\Practice8.cpp(44,21): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+C:\Users\mrale\source\repos\Practice8\Practice8\Practice8.cpp(53,15): warning C4244: инициализация: преобразование "__int64" в "int", возможна потеря данных
+C:\Users\mrale\source\repos\Practice8\Practice8\Practice8.cpp(76,20): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  Practice8.vcxproj -> C:\Users\mrale\source\repos\Practice8\x64\Debug\Practice8.exe
